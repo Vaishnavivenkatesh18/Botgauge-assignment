@@ -56,18 +56,3 @@ npm install
 # Run development server
 npm run dev
 ```
-
-## Technical Decisions
-
-- **Functional Components**: Used React hooks for clean, modern code
-- **State Management**: Simple `useState` - no Redux needed for this scope
-- **Component Design**: Single modal component with clear separation of concerns
-- **CSS**: Vanilla CSS for simplicity and maintainability
-- **Data Structure**: Separate arrays for fruits and vegetables with unique IDs
-
-## Future Enhancements
-
-- Debounced search for better performance
-- Select all / Deselect all option
-- Keyboard navigation support
-- Accessibility improvements (ARIA labels)

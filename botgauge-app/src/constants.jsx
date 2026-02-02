@@ -1,0 +1,61 @@
+export const ITEMS = {
+  fruits: [
+    { id: 'fruit-1', label: 'Apple' },
+    { id: 'fruit-2', label: 'Mango' },
+    { id: 'fruit-3', label: 'Orange' },
+    { id: 'fruit-4', label: 'Banana' },
+    { id: 'fruit-5', label: 'Cherry' },
+    { id: 'fruit-6', label: 'Pineapple' },
+    { id: 'fruit-7', label: 'Grapes' },
+    { id: 'fruit-8', label: 'Watermelon' },
+    { id: 'fruit-9', label: 'Strawberry' },
+    { id: 'fruit-10', label: 'Blueberry' },
+    { id: 'fruit-11', label: 'Papaya' },
+    { id: 'fruit-12', label: 'Kiwi' },
+    { id: 'fruit-13', label: 'Pomegranate' },
+    { id: 'fruit-14', label: 'Peach' },
+    { id: 'fruit-15', label: 'Pear' },
+    { id: 'fruit-16', label: 'Plum' },
+    { id: 'fruit-17', label: 'Lemon' },
+    { id: 'fruit-18', label: 'Lime' },
+    { id: 'fruit-19', label: 'Coconut' },
+    { id: 'fruit-20', label: 'Avocado' },
+    { id: 'fruit-21', label: 'Dragon Fruit' },
+    { id: 'fruit-22', label: 'Guava' },
+    { id: 'fruit-23', label: 'Lychee' },
+    { id: 'fruit-24', label: 'Passion Fruit' },
+    { id: 'fruit-25', label: 'Raspberry' }
+  ],
+  vegetables: [
+    { id: 'veg-1', label: 'Carrot' },
+    { id: 'veg-2', label: 'Tomato' },
+    { id: 'veg-3', label: 'Potato' },
+    { id: 'veg-4', label: 'Onion' },
+    { id: 'veg-5', label: 'Broccoli' },
+    { id: 'veg-6', label: 'Spinach' },
+    { id: 'veg-7', label: 'Cucumber' },
+    { id: 'veg-8', label: 'Lettuce' },
+    { id: 'veg-9', label: 'Bell Pepper' },
+    { id: 'veg-10', label: 'Cauliflower' },
+    { id: 'veg-11', label: 'Cabbage' },
+    { id: 'veg-12', label: 'Eggplant' },
+    { id: 'veg-13', label: 'Zucchini' },
+    { id: 'veg-14', label: 'Pumpkin' },
+    { id: 'veg-15', label: 'Radish' },
+    { id: 'veg-16', label: 'Sweet Potato' },
+    { id: 'veg-17', label: 'Corn' },
+    { id: 'veg-18', label: 'Green Beans' },
+    { id: 'veg-19', label: 'Peas' },
+    { id: 'veg-20', label: 'Asparagus' },
+    { id: 'veg-21', label: 'Celery' },
+    { id: 'veg-22', label: 'Beetroot' },
+    { id: 'veg-23', label: 'Mushroom' },
+    { id: 'veg-24', label: 'Garlic' },
+    { id: 'veg-25', label: 'Ginger' }
+  ]
+};
+
+export const CATEGORIES = {
+  VEGETABLES: 'vegetables',
+  FRUITS: 'fruits'
+};
